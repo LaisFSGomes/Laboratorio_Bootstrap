@@ -1,0 +1,24 @@
+body {
+  /* height: 100%; */
+}
+#navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#container {
+  /* margin: 56px; */
+  /* height: 100%; */
+  /* max-height: calc(100vh - 112px); */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* overflow-y: scroll; */
+}
+footer {
+  height: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  
+}
